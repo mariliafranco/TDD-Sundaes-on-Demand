@@ -1,4 +1,4 @@
-## TEST DRIVEN DEVELOPMENT FOR THE 'SUNDAES ON DEMAND' APP IN THE UDEMY COURSE 'TESTING-LIBRARY FOR REACT' ##
+## Test Driven Development for the 'Sundaes on demand' app in the Udemy course 'Testing-Library for React' ##
 
 
 
